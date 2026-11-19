@@ -1,0 +1,3 @@
+version=1.0.10
+url=https://github.com/truongthinh2707/ttcnc-release/releases/download/v1.0.10/truongthinh_cnc.rbz
+note=
